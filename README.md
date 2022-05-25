@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="  " width="450px"/>
-  <p>Landing Page</p>   
+  <img src="img/ImagemSite.png" width="450px"/>
+  <p>Landing Page - InDecor</p>   
 </h1>
 
 <h2>Sobre o projeto</h2>
 
-<p><strong>InDecor</strong></p>
 <p>Projeto ensino pelo Matheus Battisti no Youtube, uma Landing Page com HTML e CSS Responsiva.</p>
   
   
