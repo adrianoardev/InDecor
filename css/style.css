@@ -391,7 +391,7 @@
     text-align: center;
   }
 
-  #cta.btn {
-    width: 60%;
+  #cta .btn {
+    width: 80%;
   }
 }
