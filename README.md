@@ -1,3 +1,24 @@
-# InDecor
+<h1 align="center">
+  <img src="  " width="450px"/>
+  <p>Landing Page</p>   
+</h1>
 
-Projeto ensino pelo Matheus Battisti no Youtube, uma Landing Page com HTML e CSS Responsiva.
+<h2>Sobre o projeto</h2>
+
+<p><strong>InDecor</strong></p>
+<p>Projeto ensino pelo Matheus Battisti no Youtube, uma Landing Page com HTML e CSS Responsiva.</p>
+  
+  
+<h2><a target="_blank" href="https://indecor.netlify.app/">Link do site do projeto</a></h2>
+
+<h2>Tecnologias utilizadas</h2>
+
+- HTML
+- CSS
+
+
+
+
+
+
+
